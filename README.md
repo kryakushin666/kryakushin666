@@ -1,7 +1,7 @@
 # 🙋 Hello! ![](https://komarev.com/ghpvc/?username=kryakushin666)
 
 ## 🧑‍💻 About me
-I am Artem Kryakushin, a back-end developer from Russia. I started programming at 11 years old, since that time I have had time to try the development of mobile applications, back-end sites and microcontroller programming
+I am Artem Kryakushin, a back-end developer from Russia. I started programming at 11 years old, since that time I have had time to try the development of mobile applications, back-end sites, microcontroller programming and bots for Telegram messenger.
 
 ## 📈 GitHub Stats
 [![Artem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kryakushin666&count_private=true&hide_border=true&bg_color=22272E&text_color=FFFFFF)](https://github.com/kryakushin666)
