@@ -8,6 +8,7 @@ I am Artem Kryakushin, a back-end developer from Russia. I started programming a
 
 ## 🎓 Skills
 [![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=22272E&labelColor=f0f0f0)](https://www.arduino.cc/)
+[![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=22272E&labelColor=f0f0f0)](https://kotlinlang.org/)
 [![](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=22272E&labelColor=f0f0f0)](https://www.java.com/ru/)
 [![](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=22272E&labelColor=f0f0f0)](https://spring.io)
