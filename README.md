@@ -3,9 +3,6 @@
 ## 🧑‍💻 About me
 I am Artem Kryakushin, a back-end developer from Russia. I started programming at 11 years old, since that time I have had time to try the development of mobile applications, back-end sites, microcontroller programming and bots for Telegram messenger.
 
-## 📈 GitHub Stats
-[![Artem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kryakushin666&count_private=true&hide_border=true&bg_color=22272E&text_color=FFFFFF)](https://github.com/kryakushin666)
-
 ## 🎓 Skills
 [![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=22272E&labelColor=f0f0f0)](https://www.arduino.cc/)
 [![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
