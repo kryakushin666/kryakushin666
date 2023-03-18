@@ -16,7 +16,7 @@ I am Artem Kryakushin, a back-end developer from Russia. I started programming a
 [![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=22272E&labelColor=f0f0f0)](https://git-scm.com/)
 
 ## 🔗 Contact with me
-[![](https://img.shields.io/badge/Telegram-@kryakushin777-26A5E4?style=for-the-badge&logo=telegram&logoColor=22272E&labelColor=f0f0f0)](https://t.me/kryakushin777)
+[![](https://img.shields.io/badge/Telegram-@kryakushin-26A5E4?style=for-the-badge&logo=telegram&logoColor=22272E&labelColor=f0f0f0)](https://t.me/kryakushin)
 <br/>
 [![](https://img.shields.io/badge/Gmail-artemkryakushin@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=22272E&labelColor=f0f0f0)](mailto:artemkryakushin@gmail.com)
 
